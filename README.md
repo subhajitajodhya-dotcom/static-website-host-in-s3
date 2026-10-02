@@ -1,4 +1,4 @@
-# Static Website Host in S3
+# Static Website Host in S3 and cloudfront
 
 A responsive static website for **CloudTech – AWS Cloud Solutions**, hosted on **Amazon S3** and delivered securely over HTTPS through **Amazon CloudFront**.
 
